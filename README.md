@@ -2,7 +2,6 @@
 
 [![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
 [![rank](https://make.fun/badge/best-card-game-20261122-1826/7SteveJohn/crown-of-embers/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
-[![reward](https://make.fun/badge/best-card-game-20261122-1826/7SteveJohn/crown-of-embers/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
 
 Crown of Embers is a duel of flame spirits. Your life *is* your brazier: a
 fire-bowl, and when its flame dies you lose. Every card is a flame spirit with
